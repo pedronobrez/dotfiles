@@ -1,0 +1,6 @@
+2022/03/25-18:27:11.320 30ed7 Creating DB /home/blagorodnyh/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb since it was missing.
+2022/03/25-18:27:11.408 30ed7 Reusing MANIFEST /home/blagorodnyh/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/25-18:27:13.546 307f0 Level-0 table #5: started
+2022/03/25-18:27:13.581 307f0 Level-0 table #5: 2617 bytes OK
+2022/03/25-18:27:13.611 307f0 Delete type=0 #3
+2022/03/25-18:27:13.611 307f0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

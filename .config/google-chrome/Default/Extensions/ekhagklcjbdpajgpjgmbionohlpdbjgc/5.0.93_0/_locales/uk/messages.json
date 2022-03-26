@@ -1,0 +1,23 @@
+{
+   "general_cancel": {
+      "message": "Відмінити"
+   },
+   "general_done": {
+      "message": "Готово"
+   },
+   "general_more": {
+      "message": "Більше..."
+   },
+   "general_saveTo": {
+      "message": "Зберегти в $1"
+   },
+   "general_tryAgain": {
+      "message": "Спробувати знову"
+   },
+   "progressWindow_error_upgradeClient_latestVersion": {
+      "message": "остання версія"
+   },
+   "progressWindow_savingTo": {
+      "message": "Збереження в"
+   }
+}

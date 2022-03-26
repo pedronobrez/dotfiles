@@ -1,0 +1,527 @@
+INFO 3/25/2022, 10:58:11 PM  launch with argv [/usr/share/typora/Typora]
+INFO 3/25/2022, 10:58:11 PM  launchFromDiffVersion, pre version is undefined
+INFO 3/25/2022, 10:58:11 PM  start LM in devVersion=true
+INFO 3/25/2022, 10:58:11 PM  [Raven] instanceKey = 3b93427b-f099-4473-8856-8c64be7449e1
+INFO 3/25/2022, 10:58:11 PM  [Raven] userId = a3989e85-e860-48c6-a2e9-981f6103b4e8
+INFO 3/25/2022, 10:58:11 PM  ls put SLicense
+INFO 3/25/2022, 10:58:11 PM  [validateTrail] installDate is 3/25/2022, trail remains: 15 days
+INFO 3/25/2022, 10:58:11 PM  overwriteThemeFolder
+INFO 3/25/2022, 10:58:11 PM  ------------------start------------------
+INFO 3/25/2022, 10:58:11 PM  typora version: 0.11.18
+INFO 3/25/2022, 10:58:12 PM  [focus] 1
+INFO 3/25/2022, 10:58:12 PM  [blur] 1
+INFO 3/25/2022, 10:58:12 PM  [win] blur
+INFO 3/25/2022, 10:58:12 PM  [focus] 1
+INFO 3/25/2022, 10:58:12 PM  synced recovery
+INFO 3/25/2022, 10:58:13 PM  [blur] 1
+INFO 3/25/2022, 10:58:13 PM  [win] blur
+INFO 3/25/2022, 10:58:14 PM  handle document.loadInitData
+INFO 3/25/2022, 10:58:14 PM  [RenderProcess 1][Log] getContent
+INFO 3/25/2022, 10:58:14 PM  synced recovery
+INFO 3/25/2022, 10:58:14 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 3/25/2022, 10:58:14 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 3/25/2022, 10:58:35 PM  [focus] 1
+INFO 3/25/2022, 10:58:36 PM  [blur] 1
+INFO 3/25/2022, 10:58:36 PM  [win] blur
+INFO 3/25/2022, 10:58:50 PM  [focus] 1
+INFO 3/25/2022, 10:58:50 PM  [blur] 1
+INFO 3/25/2022, 10:58:50 PM  [win] blur
+INFO 3/25/2022, 11:00:08 PM  [focus] 1
+INFO 3/25/2022, 11:00:09 PM  [blur] 1
+INFO 3/25/2022, 11:00:09 PM  [win] blur
+INFO 3/25/2022, 11:00:24 PM  [focus] 1
+INFO 3/25/2022, 11:00:25 PM  [blur] 1
+INFO 3/25/2022, 11:00:25 PM  [win] blur
+INFO 3/25/2022, 11:00:41 PM  [focus] 1
+INFO 3/25/2022, 11:00:41 PM  [blur] 1
+INFO 3/25/2022, 11:00:41 PM  [win] blur
+INFO 3/25/2022, 11:01:17 PM  [focus] 1
+INFO 3/25/2022, 11:01:17 PM  [blur] 1
+INFO 3/25/2022, 11:01:17 PM  [win] blur
+INFO 3/25/2022, 11:01:17 PM  [focus] 1
+INFO 3/25/2022, 11:01:19 PM  [blur] 1
+INFO 3/25/2022, 11:01:19 PM  [win] blur
+INFO 3/25/2022, 11:01:46 PM  [focus] 1
+INFO 3/25/2022, 11:01:51 PM  [blur] 1
+INFO 3/25/2022, 11:01:51 PM  [win] blur
+INFO 3/25/2022, 11:02:04 PM  [focus] 1
+INFO 3/25/2022, 11:02:13 PM  [blur] 1
+INFO 3/25/2022, 11:02:13 PM  [win] blur
+INFO 3/25/2022, 11:02:21 PM  [focus] 1
+INFO 3/25/2022, 11:02:24 PM  [blur] 1
+INFO 3/25/2022, 11:02:24 PM  [win] blur
+INFO 3/25/2022, 11:02:39 PM  [focus] 1
+INFO 3/25/2022, 11:02:39 PM  [blur] 1
+INFO 3/25/2022, 11:02:39 PM  [win] blur
+INFO 3/25/2022, 11:02:41 PM  [focus] 1
+INFO 3/25/2022, 11:02:42 PM  [blur] 1
+INFO 3/25/2022, 11:02:42 PM  [win] blur
+INFO 3/25/2022, 11:02:42 PM  [focus] 1
+INFO 3/25/2022, 11:02:42 PM  synced recovery
+INFO 3/25/2022, 11:02:42 PM  ----------------before-quit-----------------
+INFO 3/25/2022, 11:02:42 PM  ------------------will-quit------------------
+INFO 3/25/2022, 11:02:42 PM  -----------------quit------------------
+INFO 3/25/2022, 11:02:42 PM  closeLogging
+INFO 3/25/2022, 11:02:46 PM  launch with argv [/usr/share/typora/Typora]
+INFO 3/25/2022, 11:02:46 PM  start LM in devVersion=true
+INFO 3/25/2022, 11:02:46 PM  [Raven] instanceKey = 27e5cf93-946e-4db8-8146-fd8fcecb9e9d
+INFO 3/25/2022, 11:02:46 PM  ls put SLicense
+INFO 3/25/2022, 11:02:46 PM  [validateTrail] installDate is 3/25/2022, trail remains: 15 days
+INFO 3/25/2022, 11:02:46 PM  ------------------start------------------
+INFO 3/25/2022, 11:02:46 PM  typora version: 0.11.18
+INFO 3/25/2022, 11:02:46 PM  [Raven] userId = a3989e85-e860-48c6-a2e9-981f6103b4e8
+INFO 3/25/2022, 11:02:46 PM  [focus] 1
+INFO 3/25/2022, 11:02:46 PM  synced recovery
+INFO 3/25/2022, 11:02:48 PM  handle document.loadInitData
+INFO 3/25/2022, 11:02:48 PM  [RenderProcess 1][Log] getContent
+INFO 3/25/2022, 11:02:48 PM  synced recovery
+INFO 3/25/2022, 11:02:48 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 3/25/2022, 11:02:48 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 3/25/2022, 11:02:53 PM  [blur] 1
+INFO 3/25/2022, 11:02:53 PM  [win] blur
+INFO 3/25/2022, 11:03:56 PM  [focus] 1
+INFO 3/25/2022, 11:03:56 PM  [blur] 1
+INFO 3/25/2022, 11:03:56 PM  [win] blur
+INFO 3/25/2022, 11:05:06 PM  [focus] 1
+INFO 3/25/2022, 11:05:08 PM  [blur] 1
+INFO 3/25/2022, 11:05:08 PM  [win] blur
+INFO 3/25/2022, 11:07:18 PM  synced recovery
+INFO 3/25/2022, 11:07:18 PM  ----------------before-quit-----------------
+INFO 3/25/2022, 11:07:19 PM  synced recovery
+INFO 3/25/2022, 11:07:19 PM  ----------------before-quit-----------------
+INFO 3/25/2022, 11:07:19 PM  ------------------will-quit------------------
+INFO 3/25/2022, 11:07:19 PM  -----------------quit------------------
+INFO 3/25/2022, 11:07:19 PM  closeLogging
+INFO 3/25/2022, 11:14:21 PM  launch with argv [/usr/share/typora/Typora]
+INFO 3/25/2022, 11:14:22 PM  start LM in devVersion=true
+INFO 3/25/2022, 11:14:22 PM  [Raven] instanceKey = a544bb9e-771e-45b4-ab68-58a7f2b2f735
+INFO 3/25/2022, 11:14:22 PM  ls put SLicense
+INFO 3/25/2022, 11:14:22 PM  [validateTrail] installDate is 3/25/2022, trail remains: 15 days
+INFO 3/25/2022, 11:14:22 PM  ------------------start------------------
+INFO 3/25/2022, 11:14:22 PM  typora version: 0.11.18
+INFO 3/25/2022, 11:14:22 PM  [Raven] userId = a3989e85-e860-48c6-a2e9-981f6103b4e8
+INFO 3/25/2022, 11:14:22 PM  [focus] 1
+INFO 3/25/2022, 11:14:22 PM  [blur] 1
+INFO 3/25/2022, 11:14:22 PM  [win] blur
+INFO 3/25/2022, 11:14:22 PM  [focus] 1
+INFO 3/25/2022, 11:14:22 PM  synced recovery
+INFO 3/25/2022, 11:14:23 PM  handle document.loadInitData
+INFO 3/25/2022, 11:14:23 PM  [RenderProcess 1][Log] getContent
+INFO 3/25/2022, 11:14:23 PM  synced recovery
+INFO 3/25/2022, 11:14:23 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 3/25/2022, 11:14:23 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 3/25/2022, 11:14:28 PM  [blur] 1
+INFO 3/25/2022, 11:14:28 PM  [win] blur
+INFO 3/25/2022, 11:14:29 PM  [focus] 1
+INFO 3/25/2022, 11:14:29 PM  [blur] 1
+INFO 3/25/2022, 11:14:29 PM  [win] blur
+INFO 3/25/2022, 11:14:29 PM  [focus] 1
+INFO 3/25/2022, 11:14:29 PM  [blur] 1
+INFO 3/25/2022, 11:14:29 PM  [win] blur
+INFO 3/25/2022, 11:14:29 PM  [focus] 1
+INFO 3/25/2022, 11:17:12 PM  [blur] 1
+INFO 3/25/2022, 11:17:12 PM  [win] blur
+INFO 3/25/2022, 11:17:18 PM  [focus] 1
+INFO 3/25/2022, 11:17:18 PM  [blur] 1
+INFO 3/25/2022, 11:17:18 PM  [win] blur
+INFO 3/25/2022, 11:17:18 PM  [focus] 1
+INFO 3/25/2022, 11:17:21 PM  synced recovery
+INFO 3/25/2022, 11:17:54 PM  [downloadDict] downloading https://dict.typora.io/pt-BR/index.dic
+INFO 3/25/2022, 11:17:54 PM  [downloadDict] downloading https://dict.typora.io/pt-BR/index.aff
+INFO 3/25/2022, 11:18:04 PM  synced recovery
+INFO 3/25/2022, 11:18:05 PM  synced recovery
+INFO 3/25/2022, 11:18:07 PM  synced recovery
+INFO 3/25/2022, 11:18:13 PM  synced recovery
+INFO 3/25/2022, 11:18:15 PM  synced recovery
+INFO 3/25/2022, 11:18:42 PM  synced recovery
+INFO 3/25/2022, 11:18:42 PM  synced recovery
+INFO 3/25/2022, 11:18:45 PM  synced recovery
+INFO 3/25/2022, 11:18:49 PM  synced recovery
+INFO 3/25/2022, 11:18:59 PM  synced recovery
+INFO 3/25/2022, 11:19:00 PM  synced recovery
+INFO 3/25/2022, 11:19:03 PM  synced recovery
+INFO 3/25/2022, 11:19:04 PM  synced recovery
+INFO 3/25/2022, 11:19:06 PM  synced recovery
+INFO 3/25/2022, 11:19:12 PM  synced recovery
+INFO 3/25/2022, 11:19:13 PM  synced recovery
+INFO 3/25/2022, 11:19:13 PM  synced recovery
+INFO 3/25/2022, 11:19:16 PM  synced recovery
+ERROR 3/25/2022, 11:19:26 PM  render process is killed? false
+INFO 3/25/2022, 11:19:28 PM  [blur] 1
+INFO 3/25/2022, 11:19:28 PM  [win] blur
+ERROR 3/25/2022, 11:19:28 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+ERROR 3/25/2022, 11:19:28 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+INFO 3/25/2022, 11:19:29 PM  [focus] 1
+ERROR 3/25/2022, 11:19:29 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+ERROR 3/25/2022, 11:19:29 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+INFO 3/25/2022, 11:19:29 PM  [blur] 1
+INFO 3/25/2022, 11:19:29 PM  [win] blur
+ERROR 3/25/2022, 11:19:29 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+ERROR 3/25/2022, 11:19:30 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+INFO 3/25/2022, 11:19:38 PM  [focus] 1
+ERROR 3/25/2022, 11:19:38 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+ERROR 3/25/2022, 11:19:38 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+INFO 3/25/2022, 11:19:38 PM  [blur] 1
+INFO 3/25/2022, 11:19:38 PM  [win] blur
+ERROR 3/25/2022, 11:19:38 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+INFO 3/25/2022, 11:19:38 PM  [focus] 1
+ERROR 3/25/2022, 11:19:38 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+INFO 3/25/2022, 11:19:42 PM  [blur] 1
+INFO 3/25/2022, 11:19:42 PM  [win] blur
+ERROR 3/25/2022, 11:19:42 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+ERROR 3/25/2022, 11:19:42 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+INFO 3/25/2022, 11:19:44 PM  [focus] 1
+ERROR 3/25/2022, 11:19:44 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+ERROR 3/25/2022, 11:19:44 PM  unhandledRejection Error: Render frame was disposed before WebFrameMain could be accessed
+    at Object.n._sendInternal (electron/js2c/browser_init.js:165:558)
+    at Object.b._sendInternal (electron/js2c/browser_init.js:161:2573)
+    at electron/js2c/browser_init.js:201:729
+    at new Promise (<anonymous>)
+    at Object.invokeInWebContents (electron/js2c/browser_init.js:201:477)
+    at Object.b.executeJavaScript (electron/js2c/browser_init.js:161:3267)
+INFO 3/25/2022, 11:19:53 PM  synced recovery
+INFO 3/25/2022, 11:19:53 PM  ----------------before-quit-----------------
+INFO 3/25/2022, 11:19:53 PM  ------------------will-quit------------------
+INFO 3/25/2022, 11:19:53 PM  -----------------quit------------------
+INFO 3/25/2022, 11:19:53 PM  closeLogging
+INFO 3/25/2022, 11:19:56 PM  launch with argv [/usr/share/typora/Typora]
+INFO 3/25/2022, 11:19:57 PM  start LM in devVersion=true
+INFO 3/25/2022, 11:19:57 PM  [Raven] instanceKey = 564d7630-15f7-4d2e-84ba-7e449d7646bc
+INFO 3/25/2022, 11:19:57 PM  ls put SLicense
+INFO 3/25/2022, 11:19:57 PM  [validateTrail] installDate is 3/25/2022, trail remains: 15 days
+INFO 3/25/2022, 11:19:57 PM  ------------------start------------------
+INFO 3/25/2022, 11:19:57 PM  typora version: 0.11.18
+INFO 3/25/2022, 11:19:57 PM  [Raven] userId = a3989e85-e860-48c6-a2e9-981f6103b4e8
+INFO 3/25/2022, 11:19:57 PM  launch from abnormal quit
+INFO 3/25/2022, 11:19:57 PM  recoverWindow {"id":1,"useCRLF":false,"hasUnsaved":true,"scrollPos":0,"syncDate":1648261156041}
+INFO 3/25/2022, 11:19:57 PM  [1] recover from content 17673 "# segunda-feira...dicionamento**."
+INFO 3/25/2022, 11:19:57 PM  synced recovery
+INFO 3/25/2022, 11:19:57 PM  [focus] 1
+INFO 3/25/2022, 11:19:57 PM  [blur] 1
+INFO 3/25/2022, 11:19:57 PM  [win] blur
+INFO 3/25/2022, 11:19:57 PM  [focus] 1
+INFO 3/25/2022, 11:19:58 PM  handle document.loadInitData
+INFO 3/25/2022, 11:19:58 PM  load from recover content length: 17673
+INFO 3/25/2022, 11:19:58 PM  [RenderProcess 1][Log] recoverFromBackup
+INFO 3/25/2022, 11:19:59 PM  synced recovery
+INFO 3/25/2022, 11:19:59 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 3/25/2022, 11:19:59 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 3/25/2022, 11:20:10 PM  synced recovery
+INFO 3/25/2022, 11:20:12 PM  synced recovery
+INFO 3/25/2022, 11:20:37 PM  synced recovery
+INFO 3/25/2022, 11:21:08 PM  File.option.noWarnigForTypeWriterMode=true;
+INFO 3/25/2022, 11:21:25 PM  File.option.noWarnigForFocusMode=true;
+INFO 3/25/2022, 11:22:40 PM  window.File && (function(){File.option.enableAutoSave = true;})();
+INFO 3/25/2022, 11:22:55 PM  window.File && (function(){document.body.classList.remove("show-footer"),document.body.classList.add("hide-footer")})();
+INFO 3/25/2022, 11:22:57 PM  window.File && (function(){document.body.classList.add("show-footer"),document.body.classList.remove("hide-footer")})();
+INFO 3/25/2022, 11:23:04 PM  File.setIndentSize(4);
+INFO 3/25/2022, 11:23:07 PM  File.option.prettyIndent = true;
+INFO 3/25/2022, 11:23:08 PM  File.option.prettyIndent = false;
+INFO 3/25/2022, 11:23:09 PM  File.option.prettyIndent = true;
+INFO 3/25/2022, 11:23:10 PM  File.option.prettyIndent = false;
+INFO 3/25/2022, 11:23:15 PM  File.option.autoPairExtendSymbol = true;
+INFO 3/25/2022, 11:23:17 PM  File.option.autoPairExtendSymbol = false;
+INFO 3/25/2022, 11:23:18 PM  File.option.autoPairExtendSymbol = true;
+INFO 3/25/2022, 11:23:20 PM  File.option.expandSimpleBlock = true;
+INFO 3/25/2022, 11:23:20 PM  File.option.expandSimpleBlock = false;
+INFO 3/25/2022, 11:24:06 PM  window.File && (function() {		File.option.smartDash = true;	})();
+INFO 3/25/2022, 11:24:07 PM  window.File && (function() {		File.option.smartDash = false;	})();
+INFO 3/25/2022, 11:24:19 PM  File.setIndentFirstLine(true, true);
+INFO 3/25/2022, 11:24:31 PM  [blur] 1
+INFO 3/25/2022, 11:24:31 PM  [win] blur
+INFO 3/25/2022, 11:25:30 PM  [focus] 1
+INFO 3/25/2022, 11:25:36 PM  [blur] 1
+INFO 3/25/2022, 11:25:36 PM  [win] blur
+INFO 3/25/2022, 11:25:36 PM  [focus] 1
+INFO 3/25/2022, 11:25:37 PM  [blur] 1
+INFO 3/25/2022, 11:25:37 PM  [win] blur
+INFO 3/25/2022, 11:25:39 PM  [focus] 1
+INFO 3/25/2022, 11:25:39 PM  [blur] 1
+INFO 3/25/2022, 11:25:39 PM  [win] blur
+INFO 3/25/2022, 11:25:39 PM  [focus] 1
+INFO 3/25/2022, 11:25:39 PM  [blur] 1
+INFO 3/25/2022, 11:25:39 PM  [win] blur
+INFO 3/25/2022, 11:25:39 PM  [focus] 2
+INFO 3/25/2022, 11:25:40 PM  synced recovery
+INFO 3/25/2022, 11:25:40 PM  [blur] 2
+INFO 3/25/2022, 11:25:40 PM  [win] blur
+INFO 3/25/2022, 11:25:40 PM  [focus] 1
+INFO 3/25/2022, 11:25:40 PM  [blur] 1
+INFO 3/25/2022, 11:25:40 PM  [win] blur
+INFO 3/25/2022, 11:25:40 PM  [focus] 2
+INFO 3/25/2022, 11:25:41 PM  handle document.loadInitData
+INFO 3/25/2022, 11:25:41 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:25:41 PM  [blur] 2
+INFO 3/25/2022, 11:25:41 PM  [win] blur
+INFO 3/25/2022, 11:25:41 PM  [focus] 1
+INFO 3/25/2022, 11:25:41 PM  synced recovery
+INFO 3/25/2022, 11:25:42 PM  [blur] 1
+INFO 3/25/2022, 11:25:42 PM  [win] blur
+INFO 3/25/2022, 11:25:42 PM  [focus] 2
+INFO 3/25/2022, 11:25:42 PM  [RenderProcess 3][Log] onBecomeActive
+INFO 3/25/2022, 11:25:42 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:25:43 PM  [blur] 2
+INFO 3/25/2022, 11:25:43 PM  [win] blur
+INFO 3/25/2022, 11:25:43 PM  [focus] 1
+INFO 3/25/2022, 11:25:44 PM  [blur] 1
+INFO 3/25/2022, 11:25:44 PM  [win] blur
+INFO 3/25/2022, 11:25:58 PM  [focus] 1
+INFO 3/25/2022, 11:25:58 PM  [blur] 1
+INFO 3/25/2022, 11:25:58 PM  [win] blur
+INFO 3/25/2022, 11:25:58 PM  [focus] 1
+INFO 3/25/2022, 11:25:58 PM  addRecentDocument
+INFO 3/25/2022, 11:25:59 PM  synced recovery
+INFO 3/25/2022, 11:25:59 PM  [blur] 1
+INFO 3/25/2022, 11:25:59 PM  [win] blur
+INFO 3/25/2022, 11:25:59 PM  [focus] 2
+INFO 3/25/2022, 11:25:59 PM  [blur] 2
+INFO 3/25/2022, 11:25:59 PM  [win] blur
+INFO 3/25/2022, 11:25:59 PM  [focus] 1
+INFO 3/25/2022, 11:26:00 PM  [focus] 2
+INFO 3/25/2022, 11:26:00 PM  [blur] 2
+INFO 3/25/2022, 11:26:00 PM  [win] blur
+INFO 3/25/2022, 11:26:00 PM  [focus] 2
+INFO 3/25/2022, 11:26:02 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/biochemistry.md]
+INFO 3/25/2022, 11:26:02 PM  addRecentDocument
+INFO 3/25/2022, 11:26:02 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:02 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:02 PM  synced recovery
+INFO 3/25/2022, 11:26:02 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:02 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:02 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:02 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:02 PM  synced recovery
+INFO 3/25/2022, 11:26:03 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/cell-culture.md]
+INFO 3/25/2022, 11:26:03 PM  addRecentDocument
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:03 PM  synced recovery
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:03 PM  synced recovery
+INFO 3/25/2022, 11:26:03 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/cromatography.md]
+INFO 3/25/2022, 11:26:03 PM  addRecentDocument
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:03 PM  synced recovery
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:03 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:03 PM  synced recovery
+INFO 3/25/2022, 11:26:04 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/lipidomics.md]
+INFO 3/25/2022, 11:26:04 PM  addRecentDocument
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:04 PM  synced recovery
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:04 PM  synced recovery
+INFO 3/25/2022, 11:26:04 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/lipidview.md]
+INFO 3/25/2022, 11:26:04 PM  addRecentDocument
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:04 PM  synced recovery
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:04 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:04 PM  synced recovery
+INFO 3/25/2022, 11:26:06 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/202203142013.md]
+INFO 3/25/2022, 11:26:06 PM  addRecentDocument
+INFO 3/25/2022, 11:26:06 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:06 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:06 PM  synced recovery
+INFO 3/25/2022, 11:26:06 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:06 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:06 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:06 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:06 PM  synced recovery
+INFO 3/25/2022, 11:26:13 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/202203122121.md]
+INFO 3/25/2022, 11:26:13 PM  addRecentDocument
+INFO 3/25/2022, 11:26:13 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:13 PM  synced recovery
+INFO 3/25/2022, 11:26:13 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:13 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:13 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:13 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:13 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:13 PM  synced recovery
+INFO 3/25/2022, 11:26:21 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/202203121924.md]
+INFO 3/25/2022, 11:26:21 PM  addRecentDocument
+INFO 3/25/2022, 11:26:21 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:21 PM  synced recovery
+INFO 3/25/2022, 11:26:21 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:21 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:21 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:21 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:21 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:21 PM  synced recovery
+INFO 3/25/2022, 11:26:22 PM  File.option.noHintForOpenLink=true;
+INFO 3/25/2022, 11:26:33 PM  addRecentDocument
+INFO 3/25/2022, 11:26:33 PM  synced recovery
+INFO 3/25/2022, 11:26:33 PM  [blur] 2
+INFO 3/25/2022, 11:26:33 PM  [win] blur
+INFO 3/25/2022, 11:26:33 PM  [focus] 3
+INFO 3/25/2022, 11:26:35 PM  handle document.loadInitData
+INFO 3/25/2022, 11:26:35 PM  [RenderProcess 4][Log] getContent
+INFO 3/25/2022, 11:26:35 PM  [RenderProcess 4][Log] do restoreEditStateFromData true false
+INFO 3/25/2022, 11:26:35 PM  [RenderProcess 4][Log] reset NodeMap
+INFO 3/25/2022, 11:26:35 PM  [RenderProcess 4][Log] [UndoManager] restoreFromJson all: 0 at: -1
+INFO 3/25/2022, 11:26:35 PM  synced recovery
+INFO 3/25/2022, 11:26:36 PM  [RenderProcess 4][Log] onBecomeActive
+INFO 3/25/2022, 11:26:36 PM  [RenderProcess 4][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:37 PM  [focus] 2
+INFO 3/25/2022, 11:26:37 PM  [blur] 2
+INFO 3/25/2022, 11:26:37 PM  [win] blur
+INFO 3/25/2022, 11:26:37 PM  [focus] 2
+INFO 3/25/2022, 11:26:38 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/202203121912.md]
+INFO 3/25/2022, 11:26:38 PM  addRecentDocument
+INFO 3/25/2022, 11:26:38 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:38 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:38 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:38 PM  synced recovery
+INFO 3/25/2022, 11:26:38 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:38 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:38 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:38 PM  synced recovery
+INFO 3/25/2022, 11:26:39 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/202203111349.md]
+INFO 3/25/2022, 11:26:39 PM  addRecentDocument
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:39 PM  synced recovery
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:39 PM  synced recovery
+INFO 3/25/2022, 11:26:39 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/202203121901.md]
+INFO 3/25/2022, 11:26:39 PM  addRecentDocument
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:39 PM  synced recovery
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:39 PM  [RenderProcess 3][Log] [UndoManager] reset commandStack
+INFO 3/25/2022, 11:26:39 PM  synced recovery
+INFO 3/25/2022, 11:26:40 PM  switchDocument 2 [/home/blagorodnyh/Downloads/drive-download-20220326T022501Z-001/202203111349.md]
+INFO 3/25/2022, 11:26:40 PM  addRecentDocument
+INFO 3/25/2022, 11:26:40 PM  [RenderProcess 3][Log] getContent
+INFO 3/25/2022, 11:26:40 PM  synced recovery
+INFO 3/25/2022, 11:26:40 PM  [RenderProcess 3][Log] File.activeWindow = true
+INFO 3/25/2022, 11:26:40 PM  [RenderProcess 3][Log] onSwitchDocumentTarget
+INFO 3/25/2022, 11:26:40 PM  [RenderProcess 3][Log] do restoreEditStateFromData true false
+INFO 3/25/2022, 11:26:40 PM  [RenderProcess 3][Log] reset NodeMap
+INFO 3/25/2022, 11:26:40 PM  [RenderProcess 3][Log] [UndoManager] restoreFromJson all: 0 at: -1
+INFO 3/25/2022, 11:26:40 PM  synced recovery
+INFO 3/25/2022, 11:26:50 PM  synced recovery
+INFO 3/25/2022, 11:26:50 PM  ----------------before-quit-----------------
+INFO 3/25/2022, 11:26:50 PM  ------------------will-quit------------------
+INFO 3/25/2022, 11:26:50 PM  -----------------quit------------------
+INFO 3/25/2022, 11:26:50 PM  closeLogging
+INFO 3/17/2022, 4:47:12 PM  launch with argv [/usr/share/typora/Typora]
+INFO 3/17/2022, 4:47:13 PM  start LM in devVersion=true
+INFO 3/17/2022, 4:47:14 PM  [Raven] instanceKey = 77720c18-374b-4a6e-9f50-bdcdc731ffb3
+INFO 3/17/2022, 4:47:14 PM  [Raven] userId = a3989e85-e860-48c6-a2e9-981f6103b4e8
+INFO 3/17/2022, 4:47:14 PM  ls put SLicense
+INFO 3/17/2022, 4:47:14 PM  [validateTrail] installDate is 3/17/2022, trail remains: 15 days
+INFO 3/17/2022, 4:47:14 PM  ------------------start------------------
+INFO 3/17/2022, 4:47:14 PM  typora version: 0.11.18
+INFO 3/17/2022, 4:47:15 PM  [focus] 1
+INFO 3/17/2022, 4:47:15 PM  [blur] 1
+INFO 3/17/2022, 4:47:15 PM  [win] blur
+INFO 3/17/2022, 4:47:15 PM  [focus] 1
+INFO 3/17/2022, 4:47:15 PM  synced recovery
+INFO 3/17/2022, 4:47:18 PM  handle document.loadInitData
+INFO 3/17/2022, 4:47:18 PM  [RenderProcess 1][Log] getContent
+INFO 3/17/2022, 4:47:18 PM  synced recovery
+INFO 3/17/2022, 4:47:18 PM  [RenderProcess 1][Log] onBecomeActive
+INFO 3/17/2022, 4:47:18 PM  [RenderProcess 1][Log] File.activeWindow = true
+INFO 3/17/2022, 4:47:19 PM  synced recovery
+INFO 3/17/2022, 4:47:19 PM  ----------------before-quit-----------------
+INFO 3/17/2022, 4:47:19 PM  ------------------will-quit------------------
+INFO 3/17/2022, 4:47:19 PM  -----------------quit------------------
+INFO 3/17/2022, 4:47:19 PM  closeLogging
