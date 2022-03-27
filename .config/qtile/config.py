@@ -24,13 +24,11 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-#     __    __                                 __            __
-#    / /_  / /___ _____ _____  _________  ____/ /___  __  __/ /_
-#   / __ \/ / __ `/ __ `/ __ \/ ___/ __ \/ __  / __ \/ / / / __ \
-#  / /_/ / / /_/ / /_/ / /_/ / /  / /_/ / /_/ / / / / /_/ / / / /
-# /_.___/_/\__,_/\__, /\____/_/   \____/\__,_/_/ /_/\__, /_/ /_/
-#               /____/                             /____/
-
+#     __   __                           __          __ 
+#    / /  / /__ ____ ____  _______  ___/ /__  __ __/ / 
+#   / _ \/ / _ `/ _ `/ _ \/ __/ _ \/ _  / _ \/ // / _ \
+#  /_.__/_/\_,_/\_, /\___/_/  \___/\_,_/_//_/\_, /_//_/
+#              /___/                        /___/      
 
 from typing import List  # noqa: F401
 
@@ -39,10 +37,12 @@ from libqtile.config import Click, Drag, Group, Key, Match, Screen
 from libqtile.lazy import lazy
 from libqtile.utils import guess_terminal
 
+
 # Autostart
 import os
 import subprocess
 from libqtile import hook
+
 
 @hook.subscribe.startup_once
 def autostart():
@@ -54,9 +54,10 @@ terminal = "termite"
 browser = "google-chrome-stable"
 file_manager = "nautilus"
 
+
 keys = [
     # Rofi
-    Key([mod], "space", lazy.spawn("rofi -combi-modi drun -font 'Fira Code Nerd Font 10' -show drun -icon-theme 'Papirus' -show-icons")),
+    Key([mod], "space", lazy.spawn("rofi -combi-modi drun -font 'Mononoki Nerd Font 10' -show drun -icon-theme 'Papirus' -show-icons")),
     #Key([mod], "space", lazy.spawn("rofi -combi-modi drun -font 'Fira Code Nerd Font 24' -show drun -icon-theme 'Papirus' -show-icons -width 32")),
 
     # Lock Screen
@@ -75,6 +76,8 @@ keys = [
     Key([], "XF86AudioRaiseVolume", lazy.spawn("amixer -D pulse sset Master 5%+")),
     Key([], "XF86AudioLowerVolume", lazy.spawn("amixer -D pulse sset Master 5%-")),
     Key([], "XF86AudioMute", lazy.spawn("amixer -D pulse sset Master toggle")),
+
+    # Nightlight
 
     # Browser
     Key([mod], "b", lazy.spawn(browser)),
@@ -106,9 +109,11 @@ keys = [
     # Onlyoffice
     Key([mod], "o", lazy.spawn("onlyoffice-desktopeditors")),
 
+
     # Switch between windows
     Key([mod], "Tab", lazy.layout.down(), desc="Move focus down"),
     Key([mod, "shift"], "Tab", lazy.layout.up(), desc="Move focus up"),
+
 
     # Move windows between left/right columns or move up/down in current stack.
     # Moving out of range in Columns layout will create new column.
@@ -117,8 +122,15 @@ keys = [
     Key([mod], "Down", lazy.layout.shuffle_down(), desc="Move window down"),
     Key([mod], "Up", lazy.layout.shuffle_up(), desc="Move window up"),
 
+
+    # Grow windows. If current window is on the edge of screen and direction
+    # will be to screen edge - window would shrink.
     Key([mod, "control"], "l", lazy.layout.shrink(), desc="Grow window to the left"),
     Key([mod, "control"], "h", lazy.layout.grow(), desc="Grow window to the right"),
+    # Key([mod, "control"], "Down", lazy.layout.grow_down(), desc="Grow window down"),
+    # Key([mod, "control"], "Up", lazy.layout.grow_up(), desc="Grow window up"),
+    # Key([mod], "n", lazy.layout.normalize(), desc="Reset all window sizes"),
+
 
     # Launch terminal
     Key([mod], "Return", lazy.spawn(terminal), desc="Launch terminal"),
@@ -136,7 +148,7 @@ keys = [
     Key([mod, "shift"], "space", lazy.window.toggle_floating()),
 
     Key([], "Print", lazy.spawn(
-        "scrot"
+        "flameshot full -c"
     )),
 
     Key(["control"], "Print", lazy.spawn(
@@ -250,6 +262,50 @@ screens = [
                 widget.Systray(
                     padding=3
                 ),
+                # widget.TextBox(
+                #    text = "│",
+                #    font="Mononoki Nerd Font",
+                #    fontsize=18,
+                #    padding=10,
+                #    foreground="ffffff"
+                # ),
+                # widget.TextBox(
+                #     text="    ",
+                #     font="Mononoki Nerd Font",
+                #     fontsize=14,
+                #     foreground="5ebd3e"
+                # ),
+                # widget.OpenWeather(
+                #     font="Mononoki Nerd Font",
+                #     fontsize=14,
+                #     format="{main_temp} °{units_temperature}",
+                #     zip=21411,
+                #     metric=True
+                # ),
+                # widget.TextBox(
+                #     text="    ",
+                #     font="Mononoki Nerd Font",
+                #     fontsize=14,
+                #     foreground="973999"
+                # ),
+                # widget.CPU(
+                #     font="Mononoki Nerd Font",
+                #     fontsize=14,
+                #     foreground="ffffff",
+                #     format="CPU {load_percent}%"
+                # ),
+                # widget.TextBox(
+                #     text="  ",
+                #     font="Mononoki Nerd Font",
+                #     fontsize=14,
+                #     foreground="ffb900"
+                # ),
+                # widget.Memory(
+                #     font="Mononoki Nerd Font",
+                #     fontsize=14,
+                #     foreground="ffffff",
+                #     # format="Mem {MemUsed: } /{MemTotal: }"
+                # ),
                 widget.TextBox(
                     text="    ",
                     font="Mononoki Nerd Font",
@@ -261,6 +317,13 @@ screens = [
                     fontsize=12,
                     foreground="ffffff",
                 ),
+                # widget.TextBox(
+                #    text = "│",
+                #    font="Mononoki Nerd Font",
+                #    fontsize=14,
+                #    padding=10,
+                #    foreground="ffffff"
+                # ),
                 widget.TextBox(
                     text="    ",
                     font="Mononoki Nerd Font",
@@ -275,6 +338,19 @@ screens = [
                     # format="%a %m/%d/%Y  %d",
                     foreground="ffffff"
                 ),
+                # widget.TextBox(
+                #     text="    ",
+                #     font="Mononoki Nerd Font",
+                #     fontsize=14,
+                #     foreground="009cdf"
+                # ),
+                # widget.Clock(
+                    # font="Mononoki Nerd Font",
+                    # fontsize=14,
+                    # #format="%a  %m/%d/%Y   %H : %M : %S",
+                    # format="%H:%M:%S",
+                    # foreground="ffffff"
+                # ),
                 widget.Sep(
                     linewidth=0,
                     padding=10
@@ -286,6 +362,8 @@ screens = [
             margin = [8,8,-3,8]
         ),
     ),
+    # gradient: 3E9726 to 2EC5EF
+    # yellow: f8aa0e
 ]
 
 # Drag floating layouts.
@@ -309,7 +387,6 @@ floating_layout = layout.Floating(float_rules=[
     Match(wm_class='ssh-askpass'),  # ssh-askpass
     Match(title='branchdialog'),  # gitk
     Match(title='pinentry'),  # GPG key password entry
-    Match(title='1password'),
 ])
 auto_fullscreen = True
 focus_on_window_activation = "smart"

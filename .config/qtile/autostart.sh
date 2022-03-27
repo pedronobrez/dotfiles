@@ -1,7 +1,8 @@
 #!/bin/sh
 
-feh --bg-scale ~/wallpapers/5120x2880.png
+feh --bg-scale ~/wallpapers/0007.jpg
 xrdb -load ~/.Xresources
+1password &
 
 setxkbmap br -variant abnt2
 picom &
