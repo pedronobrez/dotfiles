@@ -134,7 +134,7 @@ keys = [
     Key([mod, "shift"], "space", lazy.window.toggle_floating()),
 
     Key([], "Print", lazy.spawn(
-        "flameshot full -c"
+        "scrot"
     )),
 
     Key(["control"], "Print", lazy.spawn(
